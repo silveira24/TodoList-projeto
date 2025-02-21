@@ -57,6 +57,8 @@ Este é um projeto de lista de tarefas (Todo List) desenvolvido utilizando tecno
     ./mvnw spring-boot:run
     ```
 
+4. O backend estará acessível em `http://localhost:8080`
+
 ### Passos para Rodar o Frontend
 1. Navegue até o diretório do frontend:
     ```sh
@@ -72,7 +74,10 @@ Este é um projeto de lista de tarefas (Todo List) desenvolvido utilizando tecno
     ```sh
     npm run dev
     ```
+    
+4. O frontend estará acessível em `http://localhost:5173`
 
+   
 ### Acessando a Aplicação
 - O backend estará rodando em [http://localhost:8080]
 - O frontend estará rodando em [http://localhost:5173]
